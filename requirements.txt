@@ -1,0 +1,17 @@
+flask
+SQLAlchemy
+flask-SQLAlchemy
+psycopg2-binary
+sqlalchemy
+marshmallow
+python-dotenv
+flask-smorest
+langchain
+openai
+httpx
+bcrypt
+flask_cors
+aiohttp
+google-search-results
+beautifulsoup4
+requests
